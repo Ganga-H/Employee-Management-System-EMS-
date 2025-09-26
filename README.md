@@ -8,5 +8,4 @@ A responsive CRUD app built with React.js for managing employee records. Authent
 * Managing Axios HTTP requests
 * Export employee data to Excel and PDF
 
-# 
 
